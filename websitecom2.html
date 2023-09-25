@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> website </title>
+    <link rel="stylesheet"
+          type="text/css"
+          href="css/mystyle.css" />
+    <style>
+        body {
+            background: white;
+        }
+
+        article {
+            max-width: 400px;
+            float: left;
+            z-index: 1;
+            margin-left: 150px;
+        }
+
+        article2 {
+            max-width: 400px;
+            float: right;
+            z-index: 2;
+            margin-right: 150px;
+        }
+
+
+
+        footer {
+            clear: both;
+            //zorgt we voor dat floats aan beidekanten boven de footer komen//
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Website.com</h1>
+        <nav>
+            <a href="index.html">main</a>
+
+        </nav>
+        <style>
+            header {
+                background: grey;
+                height: 100px;
+            }
+        </style>
+    </header>
+
+    <article>
+
+        <h2>
+            Normal package
+        </h2>
+        <figure>
+            <img src="img/aap.jpg"
+                 alt="aap die lacht"
+                 title="aap"
+                 style="max-width: 100%; height: auto;" />
+        </figure>
+        <h3>
+        </h3>
+    </article>
+    <article class="article2">
+
+        <h2>
+            Premium package
+        </h2>
+        <figure>
+            <img src="img/aap.jpg"
+                 alt="aap die lacht"
+                 title="aap"
+                 style="max-width: 100%; height: auto;" />
+        </figure>
+        <h3>
+        </h3>
+    </article>
+
+    <footer>
+        copyright 2023 info
+    </footer>
+
+</body>
+
+</html>  
