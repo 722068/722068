@@ -41,6 +41,10 @@ footer {
 	margin: 0;
 	color: white;
 }
+#contactinfo a
+{
+	padding:10px;
+}
 #text {
 	padding: 5px;
 	font-family: 'Segoe UI';
