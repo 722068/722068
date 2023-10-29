@@ -60,6 +60,7 @@ a.nav {
 a.Link {
 	color: black;
 	text-decoration: none;
+	font-family: 'Segoe UI';
 }
 h3{
 	font-weight:400;
