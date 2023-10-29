@@ -45,5 +45,8 @@ footer {
 	padding: 5px;
 	font-family: 'Segoe UI';
 }
-
+nav 
+{
+	float: right;
+}
 
