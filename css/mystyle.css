@@ -25,6 +25,7 @@ footer {
 	height: 20%;
 	float: left;
 	display: block;
+	min-height: 100vh;
 }
 article id .mainartikel
 {
