@@ -34,7 +34,8 @@ footer {
 	background-color: #F0F0F0;
 }
 #contactinfo p {
-	margin: 10px;
+	margin: 0;
+	padding: 10px;
 }
 
 
