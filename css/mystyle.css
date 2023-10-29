@@ -26,10 +26,15 @@ footer {
 	float: left;
 	display: block;
 }
-
-#mainmenu 
+article id .mainartikel
 {
-	width:20%;
+	display: block;
+	text-align:center;
+	
+}
+
+#mainmenu {
+	width: 20%;
 	height: 100%;
 	float: left;
 }
