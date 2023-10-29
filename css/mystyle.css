@@ -17,13 +17,15 @@ header
 }
 img 
 	{
-	width: 100px;
+	width: 100%;
+	height: 20%;
 	}
 footer {
 	background-color: #222C4B
 }
-footer`{
-	width: 20%;
+footer{
+	width: 100%;
+	height: 20%;
 }
 
 #mainmenu 
