@@ -33,12 +33,14 @@ footer {
 	text-align: center;
 	width: 30%;
 	background-color: #F0F0F0;
-   margin-left: 35%;
-   margin: 5px;
+    margin-left: 35%;
 }
 #contactinfo p {
 	margin: 0;
 	color: white;
+}
+#text {
+	padding: 5px;
 }
 
 
