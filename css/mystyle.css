@@ -11,13 +11,19 @@ body {
 header {
 	background-color: #222C4B
 }
-
+header 
+{
+	width: 20%;
+}
 img 
 	{
 	width: 100px;
 	}
 footer {
 	background-color: #222C4B
+}
+footer`{
+	width: 20%;
 }
 
 #mainmenu 
