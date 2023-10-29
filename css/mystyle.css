@@ -37,6 +37,15 @@ footer {
 	margin-top : 15px;
 	padding: 20px;
 }
+#whatisproartikel {
+	display: block;
+	width: 50%;
+	background-color: #F0F0F0;
+	margin-left: 5%;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	padding: 20px;
+}
 #contactinfo p {
 	color: white;
 	margin: 0;
