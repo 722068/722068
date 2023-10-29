@@ -7,6 +7,8 @@
 body {
 	width:auto;
 	margin: auto;
+	display: flex;
+	flex-direction: column;
 header {
 	background-color: #222C4B;
 	height: 20%;
